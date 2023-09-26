@@ -92,7 +92,5 @@ The application should now be running and accessible at http://localhost:8080.
     }
   ],
   "total": "9.00"
-}'
+  }'
   ```
-
-
