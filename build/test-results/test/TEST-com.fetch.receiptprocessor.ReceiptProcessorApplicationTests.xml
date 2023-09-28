@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.fetch.receiptprocessor.ReceiptProcessorApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-09-28T14:51:04" hostname="JMDEVELOPER" time="0.534">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.fetch.receiptprocessor.ReceiptProcessorApplicationTests" time="0.534"/>
+  <system-out><![CDATA[09:51:02.585 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.fetch.receiptprocessor.ReceiptProcessorApplicationTests]: ReceiptProcessorApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+09:51:02.650 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.fetch.receiptprocessor.ReceiptProcessorApplication for test class com.fetch.receiptprocessor.ReceiptProcessorApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.1.4)
+
+2023-09-28T09:51:02.891-05:00  INFO 27680 --- [    Test worker] c.f.r.ReceiptProcessorApplicationTests   : Starting ReceiptProcessorApplicationTests using Java 17.0.8 with PID 27680 (started by jmori in C:\Users\jmori\Projects\receipt-processor)
+2023-09-28T09:51:02.892-05:00  INFO 27680 --- [    Test worker] c.f.r.ReceiptProcessorApplicationTests   : No active profile set, falling back to 1 default profile: "default"
+2023-09-28T09:51:03.982-05:00  INFO 27680 --- [    Test worker] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-09-28T09:51:04.033-05:00  INFO 27680 --- [    Test worker] c.f.r.ReceiptProcessorApplicationTests   : Started ReceiptProcessorApplicationTests in 1.284 seconds (process running for 2.11)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
